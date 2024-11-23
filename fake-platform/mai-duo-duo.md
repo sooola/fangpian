@@ -8,7 +8,7 @@
 
 ## 相关报道
 
-{% embed url="https://www.youtube.com/watch?v=GYWG255_T7g" %}
+[假金電商「麥多多」 設殺豬盤騙上億人幣](https://www.youtube.com/watch?v=GYWG255_T7g)
 
 
 
