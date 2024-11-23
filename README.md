@@ -4,24 +4,22 @@
 我计划编写一个互联网防骗指南，里面按照诈骗的类型进行分类，每个分类里面有一些真实案例，这个指南主要是
 
 
-# 项目地址
-https://solas-organization-1.gitbook.io/fangpian
-
+# 诈骗分类
 ## 网络骗局
 
-* [假平台](README.md)
+### 假平台
   * [麦多多](wang-luo-pian-ju/jia-ping-tai/mai-duo-duo.md)
-* [钓鱼网站](wang-luo-pian-ju/diao-yu-wang-zhan/README.md)
+### 钓鱼网站
   * [Page 1](wang-luo-pian-ju/diao-yu-wang-zhan/page-1.md)
-* [假客服](wang-luo-pian-ju/jia-ke-fu/README.md)
+### 假客服
   * [Page 2](wang-luo-pian-ju/jia-ke-fu/page-2.md)
 
 ## 金融骗局
 
-* [虚假投资、理财产品](jin-rong-pian-ju/xu-jia-tou-zi-li-cai-chan-pin/README.md)
+### 虚假投资、理财产品
   * [泛茶](jin-rong-pian-ju/xu-jia-tou-zi-li-cai-chan-pin/fan-cha.md)
-* [虚拟货币](jin-rong-pian-ju/xu-ni-huo-bi.md)
-* [套路贷](jin-rong-pian-ju/tao-lu-dai.md)
+### 虚拟货币
+### 套路贷
 
 ## 电信诈骗
 
