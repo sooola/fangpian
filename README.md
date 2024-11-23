@@ -14,7 +14,7 @@
 ## 网络骗局
 
 ### 假平台
-  * [麦多多](mai-duo-duo.md)
+  * [麦多多](fake-platform/mai-duo-duo.md)
 ### 钓鱼网站
   * [Page 1](wang-luo-pian-ju/diao-yu-wang-zhan/page-1.md)
 ### 假客服
@@ -23,7 +23,7 @@
 ## 金融骗局
 
 ### 虚假投资、理财产品
-  * [泛茶](fan-cha.md)
+  * [泛茶](fake-investment/fan-cha.md)
 ### 虚拟货币
 ### 套路贷
 
@@ -34,5 +34,5 @@
 
 ## 情感骗局
 
-* [走近柬埔寨詐騙園的「殺豬盤」愛情陷阱](zou-jin-jian-pu-zhai-zha-pian-yuan-de-sha-zhu-pan-ai-qing-xian-jing.md)
-* [28天被騙407萬，殺豬盤親歷者](28-tian-bei-pian-407-wan-sha-zhu-pan-qin-li-zhe.md)
+* [走近柬埔寨詐騙園的「殺豬盤」愛情陷阱](emotional-scams/zou-jin-jian-pu-zhai-zha-pian-yuan-de-sha-zhu-pan-ai-qing-xian-jing.md)
+* [28天被騙407萬，殺豬盤親歷者](emotional-scams/28-tian-bei-pian-407-wan-sha-zhu-pan-qin-li-zhe.md)
