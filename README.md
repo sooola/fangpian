@@ -16,23 +16,34 @@
 ### 假平台
   * [麦多多](fake-platform/mai-duo-duo.md)
 ### 钓鱼网站
-  * [Page 1](wang-luo-pian-ju/diao-yu-wang-zhan/page-1.md)
-### 假客服
-  * [Page 2](wang-luo-pian-ju/jia-ke-fu/page-2.md)
+  * [我被詐騙20萬還被性騷擾…超可怕最新型詐騙手法‼️](https://www.youtube.com/watch?v=AQKI5euzR78)
+  * [我被詐騙了！政大畢業又如何？親身經歷最新型蝦皮詐騙手法！](https://www.youtube.com/watch?v=hQpHT_n-oVY)
 
 ## 金融骗局
 
 ### 虚假投资、理财产品
   * [泛茶](fake-investment/fan-cha.md)
+  * [《我不是又貪又笨》投資詐騙陷阱多](https://www.youtube.com/watch?v=i0MbYQ6k3tw)
 ### 虚拟货币
 ### 套路贷
+[大学毕业一年多，找工作先背上9万多贷款](https://www.bilibili.com/video/BV1fmUBYNECs/?vd_source=ae63028fedcea32958762ef71a228448)
 
 ## 电信诈骗
 
 ### 冒充公检法
+- [騙徒偽裝中國警察 用AI技術詐騙海外僑民](fake-police/ai-fake-police)
+
 ### 虚假欠款或包裹
 
 ## 情感骗局
 
-* [走近柬埔寨詐騙園的「殺豬盤」愛情陷阱](emotional-scams/zou-jin-jian-pu-zhai-zha-pian-yuan-de-sha-zhu-pan-ai-qing-xian-jing.md)
-* [28天被騙407萬，殺豬盤親歷者](emotional-scams/28-tian-bei-pian-407-wan-sha-zhu-pan-qin-li-zhe.md)
+* [28天被騙407萬，殺豬盤親歷者：老公想著買桶汽油輕生，僅追回10多萬](https://www.youtube.com/watch?v=bXNGJnp1NLU)
+* [BBC紀錄片：走近柬埔寨詐騙園的「殺豬盤」愛情陷阱](https://www.youtube.com/watch?v=D_HrGegGc0E&rco=1)
+
+## 其他
+- [詐騙猖獗! 人淪為商品被買賣 KK園區竟還在擴張中 泰國緬甸「偷渡成常態」?](https://www.youtube.com/watch?v=IUDcigzXTF4)
+- [男子討要17萬債款反被朋友2.5万賣到緬北](https://www.youtube.com/watch?v=maU2Oap3HqY)
+* [旅游公司老板被迷晕送到缅北做“猪仔”：一天挨十棍打，交赎金也不会放人](https://www.youtube.com/watch?v=uKFh9CC94QU)
+* [【柬埔寨詐騙】逃脫後的人生 省思與教訓](https://www.youtube.com/watch?v=IiiWA4D_hg4)
+* [《柬埔寨抓交替》柬國豬仔「誰不聽話就摘器官」返台只剩骨灰？](https://www.youtube.com/watch?v=8rCY5JL06b4)
+
